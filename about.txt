@@ -1,2 +1,4 @@
 
 This is an about file. 
+
+And it has nothing to do with Git. 
